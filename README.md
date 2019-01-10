@@ -1,6 +1,6 @@
 # flutter_bloc_base_arch
 
-A new Flutter application for bloc architechure and a demo for dulingo like test.
+A new Flutter application for bloc architechure and a demo for Duolingo like test.
 
 ## Getting Started
 
