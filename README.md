@@ -6,4 +6,4 @@ A new Flutter application for bloc architechure.
 
 This project is a starting point for a Flutter application.
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/16761273/50987194-f1262a80-152e-11e9-9c4f-cbbd9d59d6b0.gif)
+![videotogif_2019 01 10_23 27 21](https://user-images.githubusercontent.com/16761273/50987422-9ccf7a80-152f-11e9-9270-ecfa2fbfd74f.gif)
